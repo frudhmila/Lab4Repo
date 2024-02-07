@@ -1,0 +1,12 @@
+Instruction
+1. Create a new repository named "Lab4Repo"
+2. make sure it is public
+3. open the terminal follwed by the following commands
+  - git config --global user.name "frudhmila"
+  - git config --global user.email "fabliharudhmila@gmail.com"
+4. go back to the repository page and click on 'code' and copy the URL under 'clone'
+5. go back to the terminal follwed by the command 
+  -git clone <URL>
+6. then we used the commandwrite down the instructions
+  - nano docu.txt 
+  save and exit followed by 
