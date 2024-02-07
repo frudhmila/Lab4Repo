@@ -1,0 +1,17 @@
+Instructions
+1. open github and create a new repository. make sure it is public
+2. open the terminale followed by the commands
+  - git config --global user.name "username"
+  -git config --global user.email "name@email.com"
+3. go to the github repository under code click on the URL of clone
+4. go back to the terminal followed by the commands
+  - git clone <URL>
+  -nano Documentation.txt (to write all the activities)
+5. followed by the commands
+  - git add Documentation.txt
+6. Generate a token from the development seeting in github
+ copy the token
+- git commit -m "Add documentation of activities"
+7. - git push origin main
+and use the token.
+
